@@ -1,6 +1,6 @@
 ## NiceBook
 
-- Rekomendasi buku-buku paling penting. Mencakup hampir seluruh cabang keilmuan secara umum.<br>
+- Rekomendasi buku-buku paling penting. Mencakup hampir seluruh cabang keilmuan secara umum<br>
 - Merupakan salah satu personal project dari [alamehan.github.io](https://alamehan.github.io/) yang berfokus pada _book recommendation_
 
 ## Motivasi 
