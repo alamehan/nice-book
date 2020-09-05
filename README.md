@@ -21,148 +21,148 @@ Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
 TOP 140 Buku Seri Orisinil
 ---
 
-| Judul Seri                                      	| Total Buku 	| Rentang Usia 	|
-|-------------------------------------------------	|------------	|--------------	|
-| DK Baby Touch and Feel Series	                   	| 31         	| Baby-3       	|
-| DK My First Series                              	| 29         	| Baby-3       	|
-| DK Pop-Up Peekaboo! Series                      	| 20         	| Baby-3       	|
-| DK Sophie la Girafe Series                      	| 19         	| Baby-3       	|
-| DK My First Tabbed Board Book Series            	| 10         	| Baby-3       	|
-| DK Jonny Lambert Illustrated Series             	| 7          	| Baby-3       	|
-| DK Noisy Peekaboo! Series                       	| 6          	| Baby-3       	|
-| DK My 1st T&F Picture Cards Series              	| 6          	| Baby-3       	|
-| DK Baby’s First Board Books Series              	| 6          	| Baby-3       	|
-| DK Chunky Baby Series	                           	| 5          	| Baby-3       	|
-| DK Baby Sparkle Series                          	| 5          	| Baby-3       	|
-| DK 100 First Series                             	| 5          	| Baby-3       	|
-| DK Eco Baby Series                              	| 3          	| Baby-3       	|
-| NC Where’s The Series                           	| 19         	| Baby-3       	|
-| NC Walk and See Series                          	| 4          	| Baby-3       	|
-| NC Animal Families Series                       	| 4          	| Baby-3       	|
-| NC Look There’s Series	                          	| 4          	| Baby-3       	|
-| NG First Board Books Series                     	| 6          	| Baby-3       	|
-| HL Find It Board Books Series                   	| 5          	| Baby-3       	|
-| Baby University Series                          	| 31         	| Baby-3       	|
-| Hello, World! Series                            	| 18         	| Baby-3       	|
-| To Baby With Love Series                        	| 14         	| Baby-3       	|
-| Baby Astrology Series                           	| 12         	| Baby-3       	|
-| Early Learning at the Museum Series             	| 8          	| Baby-3       	|
-| Baby Loves Science Series                       	| 8          	| Baby-3       	|
-| Big Ideas for Little Philosophers Series        	| 4          	| Baby-3       	|
-| Baby 101 Series                                 	| 4          	| Baby-3       	|
-| DK Touch and Feel Series                        	| 13         	| 2-5          	|
-| DK Peekaboo! Series                             	| 6          	| 2-5          	|
-| DK When I Grow Up Series                        	| 2          	| 2-5          	|
-| NG Look & Learn Series                          	| 23         	| 2-5          	|
-| My First Serie                                  	| 42         	| 2-5          	|
-| My Little World Series                          	| 36         	| 2-5          	|
-| Jane Cabrera’s Story Time Series                	| 14         	| 2-5          	|
-| Who’s Hiding Series                             	| 6          	| 2-5          	|
-| DK First Emotions? Series                       	| 6          	| 3-5          	|
-| DK Little Cities Series                         	| 5          	| 3-5          	|
-| DK Storytime Lap Books Series                   	| 4          	| 3-5          	|
-| DK Noisy Pop-Up Books Series                    	| 3          	| 3-5          	|
-| DK Look! I’m Learning Series                    	| 4          	| 3-7          	|
-| NG Explore My World Series                      	| 21         	| 3-7          	|
-| Favorite Stories Series                         	| 16         	| 3-7          	|
-| Seasons with Granddad Series                    	| 4          	| 3-7          	|
-| Rodale Kids Curious / This Make Me Series       	| 6          	| 4-6          	|
-| NG Little Kids First Big Books Series           	| 17         	| 4-8          	|
-| Hello Seasons! Series                           	| 4          	| 4-8          	|
-| DK Readers Level 1 Series                       	| 54         	| 5-7          	|
-| DK Readers Level 2 Series                       	| 84         	| 5-7          	|
-| DK Ultimate Sticker Book Series                 	| 68         	| 5-8          	|
-| DK Ultimate Sticker Collection Series           	| 40         	| 5-8          	|
-| DK Eye Wonder Series                            	| 12         	| 5-9          	|
-| DK Did You Know? Series                         	| 7          	| 5-9          	|
-| DK My Very Important Encyclopedias Series       	| 6          	| 5-9          	|
-| Where’s Waldo? Series                           	| 15         	| 5-9          	|
-| DK Nature Explorers Series                      	| 6          	| 6-8          	|
-| DK Findout! Series                              	| 31         	| 6-9          	|
-| DK First Reference Series                       	| 11         	| 6-9          	|
-| DK Everything About Pets Series                 	| 3          	| 6-9          	|
-| NG Science Chapters Series                      	| 14         	| 6-9          	|
-| HL Hidden Pictures Series                       	| 12         	| 6-9          	|
-| HL Almanac of Fun Series                        	| 2          	| 6-9          	|
-| HL 501 Joke-tivities Series                     	| 2          	| 6-9          	|
-| A to Z Mysteries Series                         	| 26         	| 6-9          	|
-| DK Readers Level 3 Series                       	| 57         	| 7-9          	|
-| DK The Secret Explorers Series                  	| 8          	| 7-9          	|
-| DK Careers for Kids Series                      	| 5          	| 7-9          	|
-| Piper Green and the Fairy Tree Series           	| 5          	| 7-9          	|
-| DK Big Questions / All About Series             	| 9          	| 7-10         	|
-| DK Everything You Need to Know Series           	| 5          	| 7-10         	|
-| DK 100 in History Series                        	| 5          	| 7-10         	|
-| DK Children Just Like Me Series                 	| 2          	| 7-10         	|
-| NG Face to Face with Animals Series             	| 21         	| 7-10         	|
-| NG Just Joking Series                           	| 12         	| 7-10         	|
-| Animals That Make Me Say Series                 	| 4          	| 7-10         	|
-| A World of Series                               	| 3          	| 7-10         	|
-| DK Eyewitness Series                            	| 166        	| 8-12         	|
-| DK Eyewitness Workbook Series                   	| 13         	| 8-12         	|
-| DK Readers Level 4 Series                       	| 31         	| 8-12         	|
-| DK Visual Encyclopedia Series                   	| 18         	| 8-12         	|
-| DK Pocket Genius Series                         	| 18         	| 8-12         	|
-| DK Life Stories Series                          	| 17         	| 8-12         	|
-| DK Knowledge Encyclopedias Series               	| 11         	| 8-12         	|
-| DK Super Encyclopedias Series                   	| 6          	| 8-12         	|
-| DK Where on Earth? Series                       	| 6          	| 8-12         	|
-| DK It Can’t Be True Series                      	| 5          	| 8-12         	|
-| DK Computer Coding for Kids Series              	| 5          	| 8-12         	|
-| DK Utterly Amazing Series                       	| 4          	| 8-12         	|
-| DK Microbites Series                            	| 4          	| 8-12         	|
-| DK Eyewitness Explorers Series                  	| 3          	| 8-12         	|
-| DK Adventures Series                            	| N          	| 8-12         	|
-| DK Character Encyclopedia Series                	| N          	| 8-12         	|
-| NG Weird but True Series                        	| 30         	| 8-12         	|
-| NG Everything Series                            	| 25         	| 8-12         	|
-| NG World History Biographies Series             	| 18         	| 8-12         	|
-| NG Kids Funny Fill In Series                    	| 16         	| 8-12         	|
-| NG How to Be Series                             	| 7          	| 8-12         	|
-| NG Myths Busted Series                          	| 3          	| 8-12         	|
-| NG Quiz Whiz Series                             	| 3          	| 8-12         	|
-| NG Bet You Didn’t Know Series	                   	| 2          	| 8-12         	|
-| NG Puzzle Books Series                          	| 2          	| 8-12         	|
-| WHQ Who Was? Series                             	| 193        	| 8-12         	|
-| WHQ What Was? Series                            	| 52         	| 8-12         	|
-| WHQ Where Is? Series                            	| 36         	| 8-12         	|
-| WHQ What Is the Story Of? Series                	| 10         	| 8-12         	|
-| Ologies Series                                  	| 21         	| 8-12         	|
-| Boy/Girl Battle Series                          	| 12         	| 8-12         	|
-| Looking Glass Library                           	| 8          	| 8-12         	|
-| Kid Legends Series                              	| 7          	| 8-12         	|
-| Stephen Biesty Cross Sections Series            	| 6          	| 8-12         	|
-| Welcome to the Museum Series                    	| 5          	| 8-12         	|
-| 5 Worlds Series                                 	| 4          	| 8-12         	|
-| Wanderville Series                              	| 3          	| 8-12         	|
-| DK Heads UP Series                              	| 8          	| 10+          	|
-| NG Countries of the World Series                	| 27         	| 10+          	|
-| NG Investigates Series                          	| 15         	| 10+          	|
-| The Sports Beat Series                          	| 6          	| 10+          	|
-| DK SuperSimple Series                           	| 3          	| 12-14        	|
-| DK Pocket Travel Guide Series                   	| 104        	| -            	|
-| DK Essential Managers Series                    	| 80         	| -            	|
-| DK Big Ideas Series & The Little Book of Series 	| 52         	| -            	|
-| DK English for Everyone Series                  	| 33         	| -            	|
-| DK How Things Work Series                       	| 15         	| -            	|
-| DK Smithsonian Handbook Series                  	| 13         	| -            	|
-| DK Help Your Kids Series                        	| 10         	| -            	|
-| DK Bilingual Visual Dictionaries Series         	| 6          	| -            	|
-| DK Nature Guide Series                          	| 6          	| -            	|
-| DK Great Lives Series                           	| 3          	| -            	|
-| DK Essential Skills Series                      	| 3          	| -            	|
-| DK Step by Step Series                          	| 3          	| -            	|
-| DK The Visual Dictionary of Series	              	| N          	| -            	|
-| DK Work/Life Series                             	| N          	| -            	|
-| NG Readers Series                               	| 163        	| -            	|
-| NG Almanac Series                               	| N          	| -            	|
-| Step into Reading Series                        	| 707        	| -            	|
-| Idiot’s Guides Series                           	| 128        	| -            	|
-| A Little Book of Self Care Series               	| 6          	| -            	|
-| 15 Minute Fitness Series                        	| 2          	| -            	|
-| Author : Robert Winston Book Series             	| N          	| Children     	|
-| Author : Smithsonian Book Series                	| N          	| Children     	|
-| Author : Carol Vorderman Book Series            	| N          	| Children     	|
+| Judul Seri                                      	| Total Buku 	| Usia     	| Link                                                                                                       	|
+|-------------------------------------------------	|------------	|----------	|------------------------------------------------------------------------------------------------------------	|
+| DK Baby Touch and Feel Series	                   	| 31         	| Baby-3   	| penguinrandomhouse.com/series/AAO/baby-touch-and-feel/                                                     	|
+| DK My First Series                              	| 29         	| Baby-3   	| penguinrandomhouse.com/series/AFT/my-first/                                                                	|
+| DK Pop-Up Peekaboo! Series                      	| 20         	| Baby-3   	| penguinrandomhouse.com/series/1UP/pop-up-peekaboo                                                          	|
+| DK Sophie la Girafe Series                      	| 19         	| Baby-3   	| penguinrandomhouse.com/series/1AU/sophie-la-girafe                                                         	|
+| DK My First Tabbed Board Book Series            	| 10         	| Baby-3   	| penguinrandomhouse.com/series/AH4/my-first-tabbed-board-book/                                              	|
+| DK Jonny Lambert Illustrated Series             	| 7          	| Baby-3   	| penguinrandomhouse.com/series/FDT/jonny-lambert-illustrated/                                               	|
+| DK Noisy Peekaboo! Series                       	| 6          	| Baby-3   	| penguinrandomhouse.com/series/083/noisy-peekaboo/                                                          	|
+| DK My 1st T&F Picture Cards Series              	| 6          	| Baby-3   	| penguinrandomhouse.com/series/AFR/my-1st-tandf-picture-cards/                                              	|
+| DK Baby’s First Board Books Series              	| 6          	| Baby-3   	| penguinrandomhouse.com/series/FDJ/babys-first-board-books/                                                 	|
+| DK Chunky Baby Series	                           	| 5          	| Baby-3   	| penguinrandomhouse.com/series/002/chunky-baby/                                                             	|
+| DK Baby Sparkle Series                          	| 5          	| Baby-3   	| penguinrandomhouse.com/series/010/baby-sparkle/                                                            	|
+| DK 100 First Series                             	| 5          	| Baby-3   	| penguinrandomhouse.com/series/FDO/100-first/                                                               	|
+| DK Eco Baby Series                              	| 3          	| Baby-3   	| penguinrandomhouse.com/series/E2B/eco-baby/                                                                	|
+| NC Where’s The Series                           	| 19         	| Baby-3   	| penguinrandomhouse.com/series/WT4/wheres-the/                                                              	|
+| NC Walk and See Series                          	| 4          	| Baby-3   	| penguinrandomhouse.com/series/WLK/walk-and-see/                                                            	|
+| NC Animal Families Series                       	| 4          	| Baby-3   	| penguinrandomhouse.com/series/4AF/animal-families/                                                         	|
+| NC Look There’s Series	                          	| 4          	| Baby-3   	| penguinrandomhouse.com/series/EHT/look-theres/                                                             	|
+| NG First Board Books Series                     	| 6          	| Baby-3   	| penguinrandomhouse.com/series/IEN/first-board-books/                                                       	|
+| HL Find It Board Books Series                   	| 5          	| Baby-3   	| penguinrandomhouse.com/series/8FI/highlights-find-it-board-books/                                          	|
+| Baby University Series                          	| 31         	| Baby-3   	| shop.sourcebooks.com/for-children/baby-university                                                          	|
+| Hello, World! Series                            	| 18         	| Baby-3   	| penguinrandomhouse.com/series/HWO/hello-world/                                                             	|
+| To Baby With Love Series                        	| 14         	| Baby-3   	| penguinrandomhouse.com/series/TAP/to-baby-with-love/                                                       	|
+| Baby Astrology Series                           	| 12         	| Baby-3   	| penguinrandomhouse.com/series/OGY/baby-astrology                                                           	|
+| Early Learning at the Museum Series             	| 8          	| Baby-3   	| penguinrandomhouse.com/series/MME/early-learning-at-the-museum/                                            	|
+| Baby Loves Science Series                       	| 8          	| Baby-3   	| penguinrandomhouse.com/series/2BL/baby-loves-science/                                                      	|
+| Big Ideas for Little Philosophers Series        	| 4          	| Baby-3   	| penguinrandomhouse.com/series/1BI/big-ideas-for-little-philosophers/                                       	|
+| Baby 101 Series                                 	| 4          	| Baby-3   	| penguinrandomhouse.com/series/B01/baby-101/                                                                	|
+| DK Touch and Feel Series                        	| 13         	| 2-5      	| penguinrandomhouse.com/series/AH7/touch-and-feel/                                                          	|
+| DK Peekaboo! Series                             	| 6          	| 2-5      	| penguinrandomhouse.com/series/088/peekaboo/                                                                	|
+| DK When I Grow Up Series                        	| 2          	| 2-5      	| penguinrandomhouse.com/series/WI3/when-i-grow-up/                                                          	|
+| NG Look & Learn Series                          	| 23         	| 2-5      	| penguinrandomhouse.com/series/LLN/look-and-learn/                                                          	|
+| My First Serie                                  	| 42         	| 2-5      	| penguinrandomhouse.com/series/TAU/my-first/                                                                	|
+| My Little World Series                          	| 36         	| 2-5      	| penguinrandomhouse.com/series/TAI/my-little-world/                                                         	|
+| Jane Cabrera’s Story Time Series                	| 14         	| 2-5      	| penguinrandomhouse.com/series/JCY/jane-cabreras-story-time/                                                	|
+| Who’s Hiding Series                             	| 6          	| 2-5      	| penguinrandomhouse.com/series/HID/whos-hiding/                                                             	|
+| DK First Emotions? Series                       	| 6          	| 3-5      	| penguinrandomhouse.com/series/ZFL/first-emotions/                                                          	|
+| DK Little Cities Series                         	| 5          	| 3-5      	| penguinrandomhouse.com/series/ZLC/little-cities/                                                           	|
+| DK Storytime Lap Books Series                   	| 4          	| 3-5      	| penguinrandomhouse.com/series/FDQ/storytime-lap-books/                                                     	|
+| DK Noisy Pop-Up Books Series                    	| 3          	| 3-5      	| penguinrandomhouse.com/series/FDK/noisy-pop-up-books/                                                      	|
+| DK Look! I’m Learning Series                    	| 4          	| 3-7      	| penguinrandomhouse.com/series/KIL/look-im-learning/                                                        	|
+| NG Explore My World Series                      	| 21         	| 3-7      	| penguinrandomhouse.com/series/EMW/explore-my-world/                                                        	|
+| Favorite Stories Series                         	| 16         	| 3-7      	| penguinrandomhouse.com/series/TA6/favorite-stories/                                                        	|
+| Seasons with Granddad Series                    	| 4          	| 3-7      	| penguinrandomhouse.com/series/D61/seasons-with-granddad/                                                   	|
+| Rodale Kids Curious / This Make Me Series       	| 6          	| 4-6      	| penguinrandomhouse.com/series/ZZR/rodale-kids-curious-readerslevel-2/                                      	|
+| NG Little Kids First Big Books Series           	| 17         	| 4-8      	| penguinrandomhouse.com/series/1BB/national-geographic-little-kids-first-big-books/                         	|
+| Hello Seasons! Series                           	| 4          	| 4-8      	| penguinrandomhouse.com/series/EKN/hello-seasons/                                                           	|
+| DK Readers Level 1 Series                       	| 54         	| 5-7      	| penguinrandomhouse.com/series/KD1/dk-readers-level-1                                                       	|
+| DK Readers Level 2 Series                       	| 84         	| 5-7      	| penguinrandomhouse.com/series/KD2/dk-readers-level-2                                                       	|
+| DK Ultimate Sticker Book Series                 	| 68         	| 5-8      	| penguinrandomhouse.com/series/AH9/ultimate-sticker-book/                                                   	|
+| DK Ultimate Sticker Collection Series           	| 40         	| 5-8      	| penguinrandomhouse.com/series/AIB/ultimate-sticker-collection/                                             	|
+| DK Eye Wonder Series                            	| 12         	| 5-9      	| penguinrandomhouse.com/series/ADA/eye-wonder/                                                              	|
+| DK Did You Know? Series                         	| 7          	| 5-9      	| penguinrandomhouse.com/series/FDA/did-you-know/                                                            	|
+| DK My Very Important Encyclopedias Series       	| 6          	| 5-9      	| penguinrandomhouse.com/series/MVE/my-very-important-encyclopedias/                                         	|
+| Where’s Waldo? Series                           	| 15         	| 5-9      	| penguinrandomhouse.com/series/WAL/wheres-waldo/                                                            	|
+| DK Nature Explorers Series                      	| 6          	| 6-8      	| penguinrandomhouse.com/series/2ES/nature-explorers                                                         	|
+| DK Findout! Series                              	| 31         	| 6-9      	| penguinrandomhouse.com/series/1FT/dk-findout                                                               	|
+| DK First Reference Series                       	| 11         	| 6-9      	| penguinrandomhouse.com/series/1KF/dk-first-reference                                                       	|
+| DK Everything About Pets Series                 	| 3          	| 6-9      	| penguinrandomhouse.com/series/FD8/everything-about-pets/                                                   	|
+| NG Science Chapters Series                      	| 14         	| 6-9      	| penguinrandomhouse.com/series/SC2/science-chapters/                                                        	|
+| HL Hidden Pictures Series                       	| 12         	| 6-9      	| penguinrandomhouse.com/series/8HP/highlights-hidden-pictures/                                              	|
+| HL Almanac of Fun Series                        	| 2          	| 6-9      	| penguinrandomhouse.com/series/HAF/highlights-almanac-of-fun/                                               	|
+| HL 501 Joke-tivities Series                     	| 2          	| 6-9      	| penguinrandomhouse.com/series/HJT/highlights-501-joke-tivities/                                            	|
+| A to Z Mysteries Series                         	| 26         	| 6-9      	| penguinrandomhouse.com/series/AZM/a-to-z-mysteries/                                                        	|
+| DK Readers Level 3 Series                       	| 57         	| 7-9      	| penguinrandomhouse.com/series/KD3/dk-readers-level-3                                                       	|
+| DK The Secret Explorers Series                  	| 8          	| 7-9      	| penguinrandomhouse.com/series/ZSC/the-secret-explorers/                                                    	|
+| DK Careers for Kids Series                      	| 5          	| 7-9      	| penguinrandomhouse.com/series/FD2/careers-for-kids/                                                        	|
+| Piper Green and the Fairy Tree Series           	| 5          	| 7-9      	| penguinrandomhouse.com/series/PGF/piper-green-and-the-fairy-tree/                                          	|
+| DK Big Questions / All About Series             	| 9          	| 7-10     	| penguinrandomhouse.com/series/ZZL/big-questions/ [OR] dk.com/uk/category/all-about/                        	|
+| DK Everything You Need to Know Series           	| 5          	| 7-10     	| penguinrandomhouse.com/series/AC6/everything-you-need-to-know/                                             	|
+| DK 100 in History Series                        	| 5          	| 7-10     	| penguinrandomhouse.com/series/IHY/100-in-history [OR] dk.com/us/category/series-made-history/              	|
+| DK Children Just Like Me Series                 	| 2          	| 7-10     	| penguinrandomhouse.com/series/ABB/children-just-like-me/                                                   	|
+| NG Face to Face with Animals Series             	| 21         	| 7-10     	| penguinrandomhouse.com/series/FFA/face-to-face-with-animals/                                               	|
+| NG Just Joking Series                           	| 12         	| 7-10     	| penguinrandomhouse.com/series/JJK/just-joking/                                                             	|
+| Animals That Make Me Say Series                 	| 4          	| 7-10     	| penguinrandomhouse.com/series/CZ5/animals-that-make-me-say/                                                	|
+| A World of Series                               	| 3          	| 7-10     	| penguinrandomhouse.com/series/D89/a-world-of/                                                              	|
+| DK Eyewitness Series                            	| 166        	| 8-12     	| penguinrandomhouse.com/series/ACC/dk-eyewitness [OR] librarything.com/series/Eyewitness+Books              	|
+| DK Eyewitness Workbook Series                   	| 13         	| 8-12     	| penguinrandomhouse.com/series/EW1/eyewitness-workbook/                                                     	|
+| DK Readers Level 4 Series                       	| 31         	| 8-12     	| penguinrandomhouse.com/series/KD4/dk-readers-level-4                                                       	|
+| DK Visual Encyclopedia Series                   	| 18         	| 8-12     	| penguinrandomhouse.com/series/EZY/visual-encyclopedia/                                                     	|
+| DK Pocket Genius Series                         	| 18         	| 8-12     	| penguinrandomhouse.com/series/AGH/pocket-genius                                                            	|
+| DK Life Stories Series                          	| 17         	| 8-12     	| penguinrandomhouse.com/series/5DK/dk-life-stories/                                                         	|
+| DK Knowledge Encyclopedias Series               	| 11         	| 8-12     	| penguinrandomhouse.com/series/2EE/knowledge-encyclopedias/                                                 	|
+| DK Super Encyclopedias Series                   	| 6          	| 8-12     	| penguinrandomhouse.com/series/UEA/super-encyclopedias/                                                     	|
+| DK Where on Earth? Series                       	| 6          	| 8-12     	| penguinrandomhouse.com/series/FD9/where-on-earth/                                                          	|
+| DK It Can’t Be True Series                      	| 5          	| 8-12     	| penguinrandomhouse.com/series/FDB/it-cant-be-true/                                                         	|
+| DK Computer Coding for Kids Series              	| 5          	| 8-12     	| penguinrandomhouse.com/series/FD4/computer-coding-for-kids/                                                	|
+| DK Utterly Amazing Series                       	| 4          	| 8-12     	| penguinrandomhouse.com/series/FDD/utterly-amazing/                                                         	|
+| DK Microbites Series                            	| 4          	| 8-12     	| penguinrandomhouse.com/series/99M/microbites/                                                              	|
+| DK Eyewitness Explorers Series                  	| 3          	| 8-12     	| penguinrandomhouse.com/series/CKX/eyewitness-explorers/                                                    	|
+| DK Adventures Series                            	| N          	| 8-12     	| dk.com/us/category/dk-adventures/                                                                          	|
+| DK Character Encyclopedia Series                	| N          	| 8-12     	| dk.com/uk/search/character%20encyclopedia/                                                                 	|
+| NG Weird but True Series                        	| 30         	| 8-12     	| penguinrandomhouse.com/series/WBT/weird-but-true/                                                          	|
+| NG Everything Series                            	| 25         	| 8-12     	| penguinrandomhouse.com/series/NGK/national-geographic-kids-everything/                                     	|
+| NG World History Biographies Series             	| 18         	| 8-12     	| penguinrandomhouse.com/series/NGW/national-geographic-world-history-biographies/                           	|
+| NG Kids Funny Fill In Series                    	| 16         	| 8-12     	| penguinrandomhouse.com/series/FFI/ng-kids-funny-fill-in/                                                   	|
+| NG How to Be Series                             	| 7          	| 8-12     	| penguinrandomhouse.com/series/HTB/how-to-be/                                                               	|
+| NG Myths Busted Series                          	| 3          	| 8-12     	| penguinrandomhouse.com/series/MBD/myths-busted/                                                            	|
+| NG Quiz Whiz Series                             	| 3          	| 8-12     	| penguinrandomhouse.com/series/QWZ/quiz-whiz/                                                               	|
+| NG Bet You Didn’t Know Series	                   	| 2          	| 8-12     	| penguinrandomhouse.com/series/KOI/bet-you-didnt-know/                                                      	|
+| NG Puzzle Books Series                          	| 2          	| 8-12     	| penguinrandomhouse.com/series/NGZ/ngk-puzzle-books/                                                        	|
+| WHQ Who Was? Series                             	| 193        	| 8-12     	| penguinrandomhouse.com/series/DWY/who-was                                                                  	|
+| WHQ What Was? Series                            	| 52         	| 8-12     	| penguinrandomhouse.com/series/DWW/what-was                                                                 	|
+| WHQ Where Is? Series                            	| 36         	| 8-12     	| penguinrandomhouse.com/series/173/where-is/                                                                	|
+| WHQ What Is the Story Of? Series                	| 10         	| 8-12     	| penguinrandomhouse.com/series/WSO/what-is-the-story-of                                                     	|
+| Ologies Series                                  	| 21         	| 8-12     	| penguinrandomhouse.com/series/OLO/ologies/                                                                 	|
+| Boy/Girl Battle Series                          	| 12         	| 8-12     	| penguinrandomhouse.com/series/BGB/boygirl-battle/                                                          	|
+| Looking Glass Library                           	| 8          	| 8-12     	| penguinrandomhouse.com/series/LKL/looking-glass-library/                                                   	|
+| Kid Legends Series                              	| 7          	| 8-12     	| penguinrandomhouse.com/series/KLS/kid-legends/                                                             	|
+| Stephen Biesty Cross Sections Series            	| 6          	| 8-12     	| penguinrandomhouse.com/series/FD7/stephen-biesty-cross-sections                                            	|
+| Welcome to the Museum Series                    	| 5          	| 8-12     	| penguinrandomhouse.com/series/WTM/welcome-to-the-museum/                                                   	|
+| 5 Worlds Series                                 	| 4          	| 8-12     	| penguinrandomhouse.com/series/HAA/5-worlds/                                                                	|
+| Wanderville Series                              	| 3          	| 8-12     	| penguinrandomhouse.com/series/DWP/wanderville/                                                             	|
+| DK Heads UP Series                              	| 8          	| 10+      	| penguinrandomhouse.com/series/EZX/heads-up                                                                 	|
+| NG Countries of the World Series                	| 27         	| 10+      	| penguinrandomhouse.com/series/COW/countries-of-the-world/                                                  	|
+| NG Investigates Series                          	| 15         	| 10+      	| penguinrandomhouse.com/series/NGI/national-geographic-investigates/                                        	|
+| The Sports Beat Series                          	| 6          	| 10+      	| penguinrandomhouse.com/series/SBT/the-sports-beat/                                                         	|
+| DK SuperSimple Series                           	| 3          	| 12-14    	| penguinrandomhouse.com/series/SMP/supersimple                                                              	|
+| DK Pocket Travel Guide Series                   	| 104        	| -        	| https://www.penguinrandomhouse.com/series/ADJ/pocket-travel-guide                                          	|
+| DK Essential Managers Series                    	| 80         	| -        	| penguinrandomhouse.com/series/AB9/dk-essential-managers [OR] librarything.com/series/DK+Essential+Managers 	|
+| DK Big Ideas Series & The Little Book of Series 	| 52         	| -        	| penguinrandomhouse.com/series/AAY/big-ideas                                                                	|
+| DK English for Everyone Series                  	| 33         	| -        	| penguinrandomhouse.com/series/EFE/english-for-everyone/                                                    	|
+| DK How Things Work Series                       	| 15         	| -        	| penguinrandomhouse.com/series/3TW/how-things-work                                                          	|
+| DK Smithsonian Handbook Series                  	| 13         	| -        	| penguinrandomhouse.com/series/AHK/dk-smithsonian-handbook/                                                 	|
+| DK Help Your Kids Series                        	| 10         	| -        	| penguinrandomhouse.com/series/102/help-your-kids                                                           	|
+| DK Bilingual Visual Dictionaries Series         	| 6          	| -        	| penguinrandomhouse.com/series/ACX/dk-bilingual-visual-dictionaries/                                        	|
+| DK Nature Guide Series                          	| 6          	| -        	| penguinrandomhouse.com/series/113/dk-nature-guide                                                          	|
+| DK Great Lives Series                           	| 3          	| -        	| penguinrandomhouse.com/series/GVS/great-lives/                                                             	|
+| DK Essential Skills Series                      	| 3          	| -        	| penguinrandomhouse.com/series/024/dk-essential-skills/                                                     	|
+| DK Step by Step Series                          	| 3          	| -        	| penguinrandomhouse.com/series/051/dk-step-by-step/                                                         	|
+| DK The Visual Dictionary of Series	              	| N          	| -        	| librarything.com/series/DK+Visual+Dictionaries                                                             	|
+| DK Work/Life Series                             	| N          	| -        	| dk.com/uk/search/work%2Flife/                                                                              	|
+| NG Readers Series                               	| 163        	| -        	| penguinrandomhouse.com/series/RDR/readers/                                                                 	|
+| NG Almanac Series                               	| N          	| -        	| penguin.com.au/search?q=almanac                                                                            	|
+| Step into Reading Series                        	| 707        	| -        	| penguinrandomhouse.com/series/SR6/step-into-reading/                                                       	|
+| Idiot’s Guides Series                           	| 128        	| -        	| penguinrandomhouse.com/series/IDU/idiots-guides                                                            	|
+| A Little Book of Self Care Series               	| 6          	| -        	| penguinrandomhouse.com/series/LB9/a-little-book-of-self-care                                               	|
+| 15 Minute Fitness Series                        	| 2          	| -        	| penguinrandomhouse.com/series/001/15-minute-fitness                                                        	|
+| Author : Robert Winston Book Series             	| N          	| Children 	| dk.com/uk/search/Robert%20Winston/                                                                         	|
+| Author : Smithsonian Book Series                	| N          	| Children 	| dk.com/us/search/smithsonian/                                                                              	|
+| Author : Carol Vorderman Book Series            	| N          	| Children 	| dk.com/uk/search/Carol%20Vorderman/                                                                        	|
   
 TOP 60 Buku Seri Yang Dikurasi Secara Manual
 ---
