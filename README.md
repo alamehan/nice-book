@@ -284,7 +284,7 @@ Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku
 3️⃣ TOP 60 Buku Seri Yang Dikurasi Secara Manual
 ---
 
-* DK Little Hide and Seek Series | 5 Buku | Usia : Baby-3
+* 📚 DK Little Hide and Seek Series **|** 5 Buku **|** Usia Baby-3
   * [Little Hide and Seek Playtime](https://dk.com/uk/book/9781409339427-little-hide-and-seek-playtime/)
   * [Little Hide and Seek Animals](https://dk.com/uk/book/9781409382669-little-hide-and-seek-animals/)
   * [Little Hide and Seek Words](https://dk.com/uk/book/9781409382690-little-hide-and-seek-words/)
@@ -292,7 +292,7 @@ Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku
   * [Little Hide and Seek Colors](https://dk.com/us/book/9781465419927-little-hide-and-seek-colors/)
   * [More (UK)](https://dk.com/uk/search/little%20hide%20and%20seek/) [More (US)](https://dk.com/us/search/little%20hide%20and%20seek/)
   
-* DK Little Hide and Seek Series | 5 Buku | Usia : Baby-3
+* 📚 DK Little Hide and Seek Series **|** 5 Buku **|** Usia Baby-3
   * [Little Hide and Seek Playtime](https://dk.com/uk/book/9781409339427-little-hide-and-seek-playtime/)
   * [Little Hide and Seek Animals](https://dk.com/uk/book/9781409382669-little-hide-and-seek-animals/)
   * [Little Hide and Seek Words](https://dk.com/uk/book/9781409382690-little-hide-and-seek-words/)
