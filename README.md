@@ -174,3 +174,116 @@ TOP 60 Buku Seri Yang Dikurasi Secara Manual
 
 TOP 110 Buku Non-Seri
 ---
+
+| Judul Buku | Kategori | Link Spesifik |
+|-|-|-|
+| 📘 13½ Incredible Things You Need to Know About | Children’s | [Buka](https://dk.com/uk/book/9780241238936-13--incredible-things-you-need-to-know-about-everything/) |
+| 📘 365 Outdoor Activities You Have to Try | Children’s | [Buka](https://dk.com/uk/book/9781409348191-rspb-365-outdoor-activities-you-have-to-try/) |
+| 📘 Big Book of Knowledge | Children’s | [Buka](https://dk.com/uk/book/9781409333258-big-book-of-knowledge/) |
+| 📘 Children's Book of Philosophy | Children’s | [Buka](https://dk.com/uk/book/9781409372042-childrens-book-of-philosophy/) |
+| 📘 Children's Book of Sport | Children’s | [Buka](https://dk.com/uk/book/9781405368506-childrens-book-of-sport/) |
+| 📘 Climate Emergency Atlas | Children’s | [Buka](https://dk.com/uk/book/9780241446430-climate-emergency-atlas/) |
+| 📘 Complete Children's Cookbook | Children’s | [Buka](https://dk.com/uk/book/9780241196885-complete-childrens-cookbook/) |
+| 📘 Crafty Gifts | Children’s | [Buka](https://dk.com/uk/book/9781465461223-crafty-gifts/) |
+| 📘 Crafty Science | Children’s | [Buka](https://dk.com/uk/book/9781465477682-crafty-science/) |
+| 📘 Danger! | Children’s | [Buka](https://dk.com/uk/book/9781405366212-danger/) |
+| 📘 Explorers | Children’s | [Buka](https://dk.com/uk/book/9780241343784-explorers/) |
+| 📘 First Emotions My Little Box of Emotions | Children’s | [Buka](https://dk.com/uk/book/9780241464168-first-emotions-my-little-box-of-emotions/) |
+| 📘 General Knowledge Genius! | Children’s | [Buka](https://dk.com/uk/book/9780241336243-general-knowledge-genius/) |
+| 📘 Greek Myths | Children’s | [Buka](https://dk.com/uk/book/9780241397459-greek-myths/) |
+| 📘 How to do Everything | Children’s | [Buka](https://dk.com/uk/book/9781405366229-how-to-do-everything/) |
+| 📘 How to Draw | Children’s | [Buka](https://dk.com/uk/book/9780241282489-how-to-draw/) |
+| 📘 How to Make a Better World | Children’s | [Buka](https://dk.com/uk/book/9780241412206-how-to-make-a-better-world/) |
+| 📘 How to Measure Everything | Children’s | [Buka](https://dk.com/uk/book/9781465470300-how-to-measure-everything/) |
+| 📘 I Am, I Can 365 Affirmations for Kids | Children’s | [Buka](https://dk.com/uk/book/9780241420256-i-am-i-can/) |
+| 📘 Inventor Lab | Children’s | [Buka](https://dk.com/uk/book/9780241343517-inventor-lab/) |
+| 📘 Know It All | Children’s | [Buka](https://dk.com/uk/book/9781405360135-know-it-all/) |
+| 📘 Life Cycles Everything from Start to Finish | Children’s | [Buka](https://dk.com/uk/book/9780241410998-life-cycles/) |
+| 📘 Mars Explore the Mysteries of the Red Planet | Children’s | [Buka](https://dk.com/uk/book/9780241409589-mars/) |
+| 📘 My Mixed Emotions | Children’s | [Buka](https://dk.com/uk/book/9781465473325-my-mixed-emotions/) |
+| 📘 Record Breakers! | Children’s | [Buka](https://dk.com/uk/book/9781465474384-record-breakers/) |
+| 📘 Recycle and Remake | Children’s | [Buka](https://dk.com/uk/book/9780241395813-recycle-and-remake/) |
+| 📘 Science You Can Eat | Children’s | [Buka](https://dk.com/uk/book/9781465468437-science-you-can-eat/) |
+| 📘 Survival for Beginners | Children’s | [Buka](https://dk.com/uk/book/9780241339893-survival-for-beginners/) |
+| 📘 The Book of Mythical Beasts and Magical Creatures | Children’s | [Buka](https://dk.com/uk/book/9780241423950-the-book-of-mythical-beasts-and-magical-creatures/) |
+| 📘 The DNA Book | Children’s | [Buka](https://dk.com/uk/book/9781465492272-the-dna-book/) |
+| 📘 Think About It | Children’s | [Buka](https://dk.com/uk/book/9781405367141-think-about-it/) |
+| 📘 Under Your Feet... Soil, Sand and Everything Underground | Children’s | [Buka](https://dk.com/us/book/9781465490957-under-your-feet...-soil-sand-and-everything-underground/) |
+| 📘 Unlock Your Imagination | Children’s | [Buka](https://dk.com/uk/book/9780241316597-unlock-your-imagination/) |
+| 📘 What You Need to Know Now | Children’s | [Buka](https://dk.com/uk/book/9781405357173-what-you-need-to-know-now/) |
+| 📘 What's the Point of Maths? | Children’s | [Buka](https://dk.com/uk/book/9780241343524-whats-the-point-of-maths/) |
+| 📘 What's Where in the World | Children’s | [Buka](https://dk.com/uk/book/9781409379249-whats-where-in-the-world/) |
+| 📘 Why Does the Earth Need the Moon? | Children’s | [Buka](https://dk.com/uk/book/9780241358375-why-does-the-earth-need-the-moon/) |
+| 📘 Wonders of the Natural World | Children’s | [Buka](https://dk.com/uk/book/9781405339346-wonders-of-the-natural-world/) |
+| 📘 Zoom Encyclopedia | Children’s | [Buka](https://dk.com/uk/book/9781405371346-zoom-encyclopedia/) |
+| 📒 Ask Me Anything | Education | [Buka](https://dk.com/uk/book/9781405371520-ask-me-anything/) |
+| 📒 The Big Quiz Book | Education | [Buka](https://dk.com/uk/book/9780241492307-the-big-quiz-book/) |
+| 📕 Backpacking & Hiking | Reference | [Buka](https://dk.com/us/book/9781465492647-backpacking--hiking/) |
+| 📕 Competitive Debate | Reference | [Buka](https://dk.com/us/book/9781592576937-competitive-debate/) |
+| 📕 Encyclopedia of Aquarium and Pond Fish | Reference | [Buka](https://dk.com/uk/book/9780241364246-encyclopedia-of-aquarium-and-pond-fish/) |
+| 📕 Everything You Need to Write Great Essays | Reference | [Buka](https://dk.com/us/book/9781101540282-everything-you-need-to-write-great-essays/) |
+| 📕 How to Start Your Own Business | Reference | [Buka](https://dk.com/uk/book/9780241437452-how-to-start-your-own-business/) |
+| 📕 Solve These F\*cking Puzzles | Reference | [Buka](https://dk.com/us/book/9781465483751-solve-these-fcking-puzzles/) |
+| 📕 Wildlife of the World | Reference | [Buka](https://dk.com/uk/book/9780241186008-wildlife-of-the-world/) |
+| 📕 World Religions | Reference | [Buka](https://dk.com/uk/book/9781405314398-world-religions/) |
+| 📗 Big History | History | [Buka](https://dk.com/uk/book/9780241225905-big-history/) |
+| 📗 Civilization | History | [Buka](https://dk.com/uk/book/9780241440575-civilization/) |
+| 📗 Furniture | History | [Buka](https://dk.com/uk/book/9781405358002-furniture/) |
+| 📗 History From the Dawn of Civilization | History | [Buka](https://dk.com/uk/book/9780241201305-history/) |
+| 📗 History of the World Map by Map | History | [Buka](https://dk.com/uk/book/9780241226148-history-of-the-world-map-by-map/) |
+| 📗 Queen Elizabeth II and the Royal Family | History | [Buka](https://dk.com/uk/book/9780241296653-queen-elizabeth-ii-and-the-royal-family/) |
+| 📗 World History | History | [Buka](https://dk.com/uk/book/9780241457856-world-history/) |
+| 📙 A History of Magic, Witchcraft and the Occult | Religions & Ideas | [Buka](https://dk.com/uk/book/9781465494290-a-history-of-magic-witchcraft-and-the-occult/) |
+| 📙 Myths & Legends | Religions & Ideas | [Buka](https://dk.com/uk/book/9780241387054-myths--legends/) |
+| 📙 Parkers' Astrology | Religions & Ideas | [Buka](https://dk.com/uk/book/9780241431825-parkers-astrology/) |
+| 📙 Signs & Symbols | Religions & Ideas | [Buka](https://dk.com/uk/book/9780241387047-signs--symbols/) |
+| 📘 Engineers | Science & Nature | [Buka](https://dk.com/uk/book/9780241298824-engineers/) |
+| 📘 Evolution | Science & Nature | [Buka](https://dk.com/uk/book/9781465474018-evolution/) |
+| 📘 Science But Not As We Know It | Science & Nature | [Buka](https://dk.com/uk/book/9780241184196-science-but-not-as-we-know-it/) |
+| 📘 Violent Earth | Science & Nature | [Buka](https://dk.com/uk/book/9781405391061-violent-earth/) |
+| 📘 What's Really Happening to Our Planet? | Science & Nature | [Buka](https://dk.com/uk/book/9780241240427-whats-really-happening-to-our-planet/) |
+| 📒 A World Full of Poems | Arts & Culture | [Buka](https://dk.com/uk/book/9780241413906-a-world-full-of-poems/) |
+| 📒 Behind the Scenes at the Museum | Arts & Culture | [Buka](https://dk.com/uk/book/9780241381762-behind-the-scenes-at-the-museum/) |
+| 📒 Board Games in 100 Moves | Arts & Culture | [Buka](https://dk.com/uk/book/9781465485755-board-games-in-100-moves/) |
+| 📒 Graphic Design for Everyone | Arts & Culture | [Buka](https://dk.com/uk/book/9781465481801-graphic-design-for-everyone/) |
+| 📒 Unsolved Murders | Arts & Culture | [Buka](https://dk.com/uk/book/9780241361320-unsolved-murders/) |
+| 📒 Words in Progress | Arts & Culture | [Buka](https://dk.com/uk/book/9780241460504-words-in-progress/) |
+| 📒 Write Your Own Book | Arts & Culture | [Buka](https://dk.com/uk/book/9780241206850-write-your-own-book/) |
+| 📕 Stay Fit For Life | Sport & Fitness | [Buka](https://dk.com/uk/book/9780241295755-stay-fit-for-life/) |
+| 📕 The Complete Sailing Manual | Sport & Fitness | [Buka](https://dk.com/uk/book/9780241289303-the-complete-sailing-manual/) |
+| 📗 The Little Book of Baby Massage | Health & Beauty | [Buka](https://dk.com/uk/book/9781465491077-the-little-book-of-baby-massage/) |
+| 📗 The Memory Activity Book | Health & Beauty | [Buka](https://dk.com/uk/book/9781465469229-the-memory-activity-book/) |
+| 📙 30 Crafty Creature Projects | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9781409348863-30-crafty-creature-projects/) |
+| 📙 Craft | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9781409383901-craft/) |
+| 📙 Handmade Gifts | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9781409334057-handmade-gifts/) |
+| 📙 Handmade Interiors | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9780241186381-handmade-interiors/) |
+| 📙 How to Style Your Perfect Wedding | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9780241184813-how-to-style-your-perfect-wedding/) |
+| 📙 Paper Craft | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9780241205877-paper-craft/) |
+| 📙 Supercraft | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9780241242278-supercraft/) |
+| 📙 The Flower Book | Crafts & Hobbies | [Buka](https://dk.com/us/book/9781465445483-the-flower-book/) |
+| 📙 The Tool Book | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9780241302118-the-tool-book/) |
+| 📙 Woodwork | Crafts & Hobbies | [Buka](https://dk.com/uk/book/9780241412428-woodwork/) |
+| 📘 100 Weight Loss Bowls | Food & Drink | [Buka](https://dk.com/uk/book/9780241295748-100-weight-loss-bowls/) |
+| 📘 Chocolate | Food & Drink | [Buka](https://dk.com/uk/book/9780241229439-chocolate/) |
+| 📘 Cooking Through the Year | Food & Drink | [Buka](https://dk.com/uk/book/9781409375814-cooking-through-the-year/) |
+| 📘 Desserts | Food & Drink | [Buka](https://dk.com/us/book/9781465449146-desserts/) |
+| 📘 Eat Better, Live Longer | Food & Drink | [Buka](https://dk.com/uk/book/9780241313626-eat-better-live-longer/) |
+| 📘 Family Kitchen Cookbook | Food & Drink | [Buka](https://dk.com/uk/book/9781409332886-family-kitchen-cookbook/) |
+| 📘 Healthy Gut Cookbook | Food & Drink | [Buka](https://dk.com/uk/book/9780241296998-healthy-gut-cookbook/) |
+| 📘 Mary Berry's Complete Cookbook | Food & Drink | [Buka](https://dk.com/uk/book/9780241286128-mary-berrys-complete-cookbook/) |
+| 📘 MasterChef Kitchen Bible New Edition | Food & Drink | [Buka](https://dk.com/uk/book/9780241307267-masterchef-kitchen-bible-new-edition/) |
+| 📘 Mocktails, Punches & Shrubs | Food & Drink | [Buka](https://dk.com/uk/book/9780241282625-mocktails-punches--shrubs/) |
+| 📘 The Cook's Book of Ingredients | Food & Drink | [Buka](https://dk.com/uk/book/9781405353182-the-cooks-book-of-ingredients/) |
+| 📘 The Diabetes Cooking Book | Food & Drink | [Buka](https://dk.com/uk/book/9781405341783-the-diabetes-cooking-book/) |
+| 📘 The Slow Cook Book | Food & Drink | [Buka](https://dk.com/uk/book/9780241361979-the-slow-cook-book/) |
+| 📘 The Soup Book | Food & Drink | [Buka](https://dk.com/uk/book/9780241388044-the-soup-book/) |
+| 📘 The Vegetarian Cookbook | Food & Drink | [Buka](https://dk.com/uk/book/9781465489654-the-vegetarian-cookbook/) |
+| 📘 What Mummy Makes | Food & Drink | [Buka](https://dk.com/uk/book/9780241455159-what-mummy-makes/) |
+| 📒 Ask a Parenting Expert | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9781405346641-ask-a-parenting-expert/) |
+| 📒 Baby Play for Every Day 365 Activities | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9780241011645-baby-play-for-every-day/) |
+| 📒 Baby's First Skills | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9781409351191-babys-first-skills/) |
+| 📒 Help Your Kids with Growing Up | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9780241287255-help-your-kids-with-growing-up/) |
+| 📒 Play and Learn With Your Baby | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9780241410219-play-and-learn-with-your-baby/) |
+| 📒 Pregnancy and Birth The Essential Checklists | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9781405349062-pregnancy-and-birth-the-essential-checklists/) |
+| 📒 The Complete Book of Mother and Babycare | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9781405366519-the-complete-book-of-mother-and-babycare/) |
+| 📒 The Pregnancy Encyclopedia | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9780241216552-the-pregnancy-encyclopedia/) |
