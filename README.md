@@ -1,3 +1,5 @@
+<img src="images/img-cover.png">
+
 ## NiceBook
 
 - Rekomendasi buku-buku paling penting. Mencakup hampir seluruh cabang keilmuan secara umum<br>
@@ -12,3 +14,39 @@ Saat ini buku yang tersebar di seluruh penjuru dunia baik yang dicetak maupun di
 **NiceBook** hadir untuk memberikan rekomendasi buku-buku terbaik yang mencakup hampir seluruh cabang keilmuan secara umum. **NiceBook** merupakan intisari dan hasil _filter_ secara manual dari ribuan buku-buku lainnya yang sejenis. Proses penyaringan buku ini sesungguhnya memakan banyak waktu, sehingga anda tidak perlu khawatir terkait rekomendasi buku yang diberikan sudah tentu berkualitas dan berbobot. **NiceBook** dapat anda gunakan sebagai "peta" ilmu pengetahuan karena mencakup hampir seluruh cabang keilmuan secara umum, bahkan sudah dikategorikan baik berdasarkan umur maupun jenis buku, jadi anda hanya perlu mimilih buku sesuai kebutuhan saja.
 
 Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
+
+<img src="images/img-letsgo.png">
+
+
+TOP 140 Buku Seri Orisinil
+---
+
+* Judul
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  
+* Judul
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  
+TOP 60 Buku Seri Yang Dikurasi Secara Manual
+---
+
+* Judul
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  
+* Judul
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+
+TOP 110 Buku Non-Seri
+---
+
+* Judul
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  
+* Judul
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
