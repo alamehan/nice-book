@@ -19,7 +19,7 @@ Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
 
 Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku terbitan Dorling Kindersley (DK) yang sudah berdiri sejak 1974 & Penguin Random House sejak 2013. Kedua penerbit ini menerbitkan buku-buku yang berkualitas dan berbobot dibandingkan penerbit lainnya. Anda bisa _check_ sendiri, buku-buku yang diterbitkan ditulis oleh para penulis hebat sesuai bidang keilmuannya masing-masing. Tidak sedikit pula buku yang terbit merupakan hasil kolaborasi antar penulis, sehingga lebih menjamin kualitas isinya. Selain itu disajikan dengan visual yang mantap dan berbagai keterangan pendukung sehingga lebih _insightfull_. Saya akan terus meng-update daftar rekomendasi buku di **NiceBook** ini, tentunya saat saya menemukan buku yang memang layak dimasukkan kedalam daftar.
 
-1️⃣ TOP 140 Buku Seri Orisinil
+1️⃣ TOP 140 Buku Seri
 ---
 
 | Judul Buku Seri | Jumlah Buku | Rentang Usia | Link Spesifik |
@@ -161,18 +161,11 @@ Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku
 | 📚 ⭐ Idiot’s Guides Series | 128 | - | [Buka](https://penguinrandomhouse.com/series/IDU/idiots-guides) |
 | 📚 A Little Book of Self Care Series | 6 | - | [Buka](https://penguinrandomhouse.com/series/LB9/a-little-book-of-self-care) |
 | 📚 15 Minute Fitness Series | 2 | - | [Buka](https://penguinrandomhouse.com/series/001/15-minute-fitness) |
-| 🧑 Author : Robert Winston Book Series | N | Children | [Buka](https://dk.com/uk/search/Robert%20Winston/) |
-| 🧑 Author : Smithsonian Book Series | N | Children | [Buka](https://dk.com/us/search/smithsonian/) |
-| 👩 Author : Carol Vorderman Book Series | N | Children | [Buka](https://dk.com/uk/search/Carol%20Vorderman/) |
+| 🧑 Author : Robert Winston Book Series | N | Children's | [Buka](https://dk.com/uk/search/Robert%20Winston/) |
+| 🧑 Author : Smithsonian Book Series | N | Children's | [Buka](https://dk.com/us/search/smithsonian/) |
+| 👩 Author : Carol Vorderman Book Series | N | Children's | [Buka](https://dk.com/uk/search/Carol%20Vorderman/) |
 
-2️⃣ TOP 60 Buku Seri Yang Dikurasi Secara Manual
----
-
-* Judul
-  * [Buka](https://penguinrandomhouse.com/series/AAO/baby-touch-and-feel/)
-  * [Detail](https://github.com/phillipadsmith/awesome-github)
-
-3️⃣ TOP 110 Buku Non-Seri
+2️⃣ TOP 110 Buku Non-Seri
 ---
 
 | Judul Buku | Kategori | Link Spesifik |
@@ -287,3 +280,10 @@ Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku
 | 📒 Pregnancy and Birth The Essential Checklists | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9781405349062-pregnancy-and-birth-the-essential-checklists/) |
 | 📒 The Complete Book of Mother and Babycare | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9781405366519-the-complete-book-of-mother-and-babycare/) |
 | 📒 The Pregnancy Encyclopedia | Pregnancy & Parenting | [Buka](https://dk.com/uk/book/9780241216552-the-pregnancy-encyclopedia/) |
+
+3️⃣ TOP 60 Buku Seri Yang Dikurasi Secara Manual
+---
+
+* Judul
+  * [Buka](https://penguinrandomhouse.com/series/AAO/baby-touch-and-feel/)
+  * [Detail](https://github.com/phillipadsmith/awesome-github)
