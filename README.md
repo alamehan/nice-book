@@ -17,7 +17,7 @@ Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
 
 <img src="images/img-letsgo.png">
 
-Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku terbitan Dorling Kindersley (DK) yang sudah berdiri sejak 1974 & Penguin Random House sejak 2013. Kedua penerbit ini menerbitkan buku-buku yang berkualitas dan berbobot dibandingkan penerbit lainnya. Anda bisa _check_ sendiri, buku-buku yang diterbitkan ditulis oleh para penulis hebat sesuai bidang keilmuannya masing-masing. Tidak sedikit pula buku yang terbit merupakan hasil kolaborasi antar penulis, sehingga lebih menjamin kualitas isinya. Selain itu disajikan dengan visual yang mantap dan berbagai keterangan pendukung sehingga lebih _insightfull_. Dari waktu ke waktu saya akan meng-update rekomendasi buku-buku baru yang bagus di **NiceBook** ini, tentunya saat saya menemukan buku yang memang layak dimasukkan kedalam daftar.
+Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku terbitan Dorling Kindersley (DK) yang sudah berdiri sejak 1974 & Penguin Random House sejak 2013. Kedua penerbit ini menerbitkan buku-buku yang berkualitas dan berbobot dibandingkan penerbit lainnya. Anda bisa _check_ sendiri, buku-buku yang diterbitkan ditulis oleh para penulis hebat sesuai bidang keilmuannya masing-masing. Tidak sedikit pula buku yang terbit merupakan hasil kolaborasi antar penulis, sehingga lebih menjamin kualitas isinya. Selain itu disajikan dengan visual yang mantap dan berbagai keterangan pendukung sehingga lebih _insightfull_. Saya akan terus meng-update daftar rekomendasi buku di **NiceBook** ini, tentunya saat saya menemukan buku yang memang layak dimasukkan kedalam daftar.
 
 TOP 140 Buku Seri Orisinil
 ---
@@ -43,7 +43,7 @@ TOP 140 Buku Seri Orisinil
 | 📚 NC Look There’s Series	 | 4 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/EHT/look-theres/) |
 | 📚 NG First Board Books Series | 6 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/IEN/first-board-books/) |
 | 📚 HL Find It Board Books Series | 5 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/8FI/highlights-find-it-board-books/) |
-| 📚 Baby University Series | 31 | Baby-3 | [Buka](https://shop.sourcebooks.com/for-children/baby-university) |
+| 📚 ⭐ Baby University Series | 31 | Baby-3 | [Buka](https://shop.sourcebooks.com/for-children/baby-university) |
 | 📚 Hello, World! Series | 18 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/HWO/hello-world/) |
 | 📚 To Baby With Love Series | 14 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/TAP/to-baby-with-love/) |
 | 📚 Baby Astrology Series | 12 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/OGY/baby-astrology) |
@@ -74,7 +74,7 @@ TOP 140 Buku Seri Orisinil
 | 📚 DK Readers Level 2 Series | 84 | 5-7 | [Buka](https://penguinrandomhouse.com/series/KD2/dk-readers-level-2) |
 | 📚 DK Ultimate Sticker Book Series | 68 | 5-8 | [Buka](https://penguinrandomhouse.com/series/AH9/ultimate-sticker-book/) |
 | 📚 DK Ultimate Sticker Collection Series | 40 | 5-8 | [Buka](https://penguinrandomhouse.com/series/AIB/ultimate-sticker-collection/) |
-| 📚 DK Eye Wonder Series | 12 | 5-9 | [Buka](https://penguinrandomhouse.com/series/ADA/eye-wonder/) |
+| 📚 ⭐ DK Eye Wonder Series | 12 | 5-9 | [Buka](https://penguinrandomhouse.com/series/ADA/eye-wonder/) |
 | 📚 DK Did You Know? Series | 7 | 5-9 | [Buka](https://penguinrandomhouse.com/series/FDA/did-you-know/) |
 | 📚 DK My Very Important Encyclopedias Series | 6 | 5-9 | [Buka](https://penguinrandomhouse.com/series/MVE/my-very-important-encyclopedias/) |
 | 📚 Where’s Waldo? Series | 15 | 5-9 | [Buka](https://penguinrandomhouse.com/series/WAL/wheres-waldo/) |
@@ -93,18 +93,18 @@ TOP 140 Buku Seri Orisinil
 | 📚 Piper Green and the Fairy Tree Series | 5 | 7-9 | [Buka](https://penguinrandomhouse.com/series/PGF/piper-green-and-the-fairy-tree/) |
 | 📚 DK Big Questions / All About Series | 9 | 7-10 | [Buka](https://penguinrandomhouse.com/series/ZZL/big-questions/) [Lainnya](https://dk.com/uk/category/all-about/) |
 | 📚 DK Everything You Need to Know Series | 5 | 7-10 | [Buka](https://penguinrandomhouse.com/series/AC6/everything-you-need-to-know/) |
-| 📚 DK 100 in History Series | 5 | 7-10 | [Buka](https://penguinrandomhouse.com/series/IHY/100-in-history) [Lainnya](https://dk.com/us/category/series-made-history/) |
+| 📚 ⭐ DK 100 in History Series | 5 | 7-10 | [Buka](https://penguinrandomhouse.com/series/IHY/100-in-history) [Lainnya](https://dk.com/us/category/series-made-history/) |
 | 📚 DK Children Just Like Me Series | 2 | 7-10 | [Buka](https://penguinrandomhouse.com/series/ABB/children-just-like-me/) |
 | 📚 NG Face to Face with Animals Series | 21 | 7-10 | [Buka](https://penguinrandomhouse.com/series/FFA/face-to-face-with-animals/) |
 | 📚 NG Just Joking Series | 12 | 7-10 | [Buka](https://penguinrandomhouse.com/series/JJK/just-joking/) |
 | 📚 Animals That Make Me Say Series | 4 | 7-10 | [Buka](https://penguinrandomhouse.com/series/CZ5/animals-that-make-me-say/) |
 | 📚 A World of Series | 3 | 7-10 | [Buka](https://penguinrandomhouse.com/series/D89/a-world-of/) |
-| 📚 DK Eyewitness Series | 166 | 8-12 | [Buka](https://penguinrandomhouse.com/series/ACC/dk-eyewitness) [Lainnya](https://librarything.com/series/Eyewitness+Books) |
+| 📚 ⭐ DK Eyewitness Series | 166 | 8-12 | [Buka](https://penguinrandomhouse.com/series/ACC/dk-eyewitness) [Lainnya](https://librarything.com/series/Eyewitness+Books) |
 | 📚 DK Eyewitness Workbook Series | 13 | 8-12 | [Buka](https://penguinrandomhouse.com/series/EW1/eyewitness-workbook/) |
 | 📚 DK Readers Level 4 Series | 31 | 8-12 | [Buka](https://penguinrandomhouse.com/series/KD4/dk-readers-level-4) |
-| 📚 DK Visual Encyclopedia Series | 18 | 8-12 | [Buka](https://penguinrandomhouse.com/series/EZY/visual-encyclopedia/) |
+| 📚 ⭐ DK Visual Encyclopedia Series | 18 | 8-12 | [Buka](https://penguinrandomhouse.com/series/EZY/visual-encyclopedia/) |
 | 📚 ⭐ DK Pocket Genius Series | 18 | 8-12 | [Buka](https://penguinrandomhouse.com/series/AGH/pocket-genius) |
-| 📚 DK Life Stories Series | 17 | 8-12 | [Buka](https://penguinrandomhouse.com/series/5DK/dk-life-stories/) |
+| 📚 ⭐ DK Life Stories Series | 17 | 8-12 | [Buka](https://penguinrandomhouse.com/series/5DK/dk-life-stories/) |
 | 📚 ⭐ DK Knowledge Encyclopedias Series | 11 | 8-12 | [Buka](https://penguinrandomhouse.com/series/2EE/knowledge-encyclopedias/) |
 | 📚 DK Super Encyclopedias Series | 6 | 8-12 | [Buka](https://penguinrandomhouse.com/series/UEA/super-encyclopedias/) |
 | 📚 DK Where on Earth? Series | 6 | 8-12 | [Buka](https://penguinrandomhouse.com/series/FD9/where-on-earth/) |
@@ -141,10 +141,10 @@ TOP 140 Buku Seri Orisinil
 | 📚 NG Investigates Series | 15 | 10+ | [Buka](https://penguinrandomhouse.com/series/NGI/national-geographic-investigates/) |
 | 📚 The Sports Beat Series | 6 | 10+ | [Buka](https://penguinrandomhouse.com/series/SBT/the-sports-beat/) |
 | 📚 DK SuperSimple Series | 3 | 12-14 | [Buka](https://penguinrandomhouse.com/series/SMP/supersimple) |
-| 📚 DK Pocket Travel Guide Series | 104 | - | [Buka](https://https://www.penguinrandomhouse.com/series/ADJ/pocket-travel-guide) |
-| 📚 DK Essential Managers Series | 80 | - | [Buka](https://penguinrandomhouse.com/series/AB9/dk-essential-managers) [Lainnya](https://librarything.com/series/DK+Essential+Managers) |
+| 📚 ⭐ DK Pocket Travel Guide Series | 104 | - | [Buka](https://https://www.penguinrandomhouse.com/series/ADJ/pocket-travel-guide) |
+| 📚 ⭐ DK Essential Managers Series | 80 | - | [Buka](https://penguinrandomhouse.com/series/AB9/dk-essential-managers) [Lainnya](https://librarything.com/series/DK+Essential+Managers) |
 | 📚 ⭐ DK Big Ideas Series & The Little Book of Series | 52 | - | [Buka](https://penguinrandomhouse.com/series/AAY/big-ideas) |
-| 📚 DK English for Everyone Series | 33 | - | [Buka](https://penguinrandomhouse.com/series/EFE/english-for-everyone/) |
+| 📚 ⭐ DK English for Everyone Series | 33 | - | [Buka](https://penguinrandomhouse.com/series/EFE/english-for-everyone/) |
 | 📚 DK How Things Work Series | 15 | - | [Buka](https://penguinrandomhouse.com/series/3TW/how-things-work) |
 | 📚 DK Smithsonian Handbook Series | 13 | - | [Buka](https://penguinrandomhouse.com/series/AHK/dk-smithsonian-handbook/) |
 | 📚 DK Help Your Kids Series | 10 | - | [Buka](https://penguinrandomhouse.com/series/102/help-your-kids) |
