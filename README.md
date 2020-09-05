@@ -21,7 +21,7 @@ Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
 TOP 140 Buku Seri Orisinil
 ---
 
-| Judul Seri | Jumlah | Usia | Link |
+| Judul Buku Seri | Jumlah Buku | Rentang Usia | Link Spesifik |
 |-|-|-|-|
 | DK Baby Touch and Feel Series	 | 31 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/AAO/baby-touch-and-feel/) |
 | DK My First Series | 29 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/AFT/my-first/) |
@@ -90,15 +90,15 @@ TOP 140 Buku Seri Orisinil
 | DK The Secret Explorers Series | 8 | 7-9 | [Buka](https://penguinrandomhouse.com/series/ZSC/the-secret-explorers/) |
 | DK Careers for Kids Series | 5 | 7-9 | [Buka](https://penguinrandomhouse.com/series/FD2/careers-for-kids/) |
 | Piper Green and the Fairy Tree Series | 5 | 7-9 | [Buka](https://penguinrandomhouse.com/series/PGF/piper-green-and-the-fairy-tree/) |
-| DK Big Questions / All About Series | 9 | 7-10 | [Buka](https://penguinrandomhouse.com/series/ZZL/big-questions/) [Buka](https://dk.com/uk/category/all-about/) |
+| DK Big Questions / All About Series | 9 | 7-10 | [Buka](https://penguinrandomhouse.com/series/ZZL/big-questions/) [Lainnya](https://dk.com/uk/category/all-about/) |
 | DK Everything You Need to Know Series | 5 | 7-10 | [Buka](https://penguinrandomhouse.com/series/AC6/everything-you-need-to-know/) |
-| DK 100 in History Series | 5 | 7-10 | [Buka](https://penguinrandomhouse.com/series/IHY/100-in-history) [Buka](https://dk.com/us/category/series-made-history/) |
+| DK 100 in History Series | 5 | 7-10 | [Buka](https://penguinrandomhouse.com/series/IHY/100-in-history) [Lainnya](https://dk.com/us/category/series-made-history/) |
 | DK Children Just Like Me Series | 2 | 7-10 | [Buka](https://penguinrandomhouse.com/series/ABB/children-just-like-me/) |
 | NG Face to Face with Animals Series | 21 | 7-10 | [Buka](https://penguinrandomhouse.com/series/FFA/face-to-face-with-animals/) |
 | NG Just Joking Series | 12 | 7-10 | [Buka](https://penguinrandomhouse.com/series/JJK/just-joking/) |
 | Animals That Make Me Say Series | 4 | 7-10 | [Buka](https://penguinrandomhouse.com/series/CZ5/animals-that-make-me-say/) |
 | A World of Series | 3 | 7-10 | [Buka](https://penguinrandomhouse.com/series/D89/a-world-of/) |
-| DK Eyewitness Series | 166 | 8-12 | [Buka](https://penguinrandomhouse.com/series/ACC/dk-eyewitness) [Buka](https://librarything.com/series/Eyewitness+Books) |
+| DK Eyewitness Series | 166 | 8-12 | [Buka](https://penguinrandomhouse.com/series/ACC/dk-eyewitness) [Lainnya](https://librarything.com/series/Eyewitness+Books) |
 | DK Eyewitness Workbook Series | 13 | 8-12 | [Buka](https://penguinrandomhouse.com/series/EW1/eyewitness-workbook/) |
 | DK Readers Level 4 Series | 31 | 8-12 | [Buka](https://penguinrandomhouse.com/series/KD4/dk-readers-level-4) |
 | DK Visual Encyclopedia Series | 18 | 8-12 | [Buka](https://penguinrandomhouse.com/series/EZY/visual-encyclopedia/) |
@@ -141,7 +141,7 @@ TOP 140 Buku Seri Orisinil
 | The Sports Beat Series | 6 | 10+ | [Buka](https://penguinrandomhouse.com/series/SBT/the-sports-beat/) |
 | DK SuperSimple Series | 3 | 12-14 | [Buka](https://penguinrandomhouse.com/series/SMP/supersimple) |
 | DK Pocket Travel Guide Series | 104 | - | [Buka](https://https://www.penguinrandomhouse.com/series/ADJ/pocket-travel-guide) |
-| DK Essential Managers Series | 80 | - | [Buka](https://penguinrandomhouse.com/series/AB9/dk-essential-managers) [Buka](https://librarything.com/series/DK+Essential+Managers) |
+| DK Essential Managers Series | 80 | - | [Buka](https://penguinrandomhouse.com/series/AB9/dk-essential-managers) [Lainnya](https://librarything.com/series/DK+Essential+Managers) |
 | DK Big Ideas Series & The Little Book of Series | 52 | - | [Buka](https://penguinrandomhouse.com/series/AAY/big-ideas) |
 | DK English for Everyone Series | 33 | - | [Buka](https://penguinrandomhouse.com/series/EFE/english-for-everyone/) |
 | DK How Things Work Series | 15 | - | [Buka](https://penguinrandomhouse.com/series/3TW/how-things-work) |
@@ -163,7 +163,7 @@ TOP 140 Buku Seri Orisinil
 | Author : Robert Winston Book Series | N | Children | [Buka](https://dk.com/uk/search/Robert%20Winston/) |
 | Author : Smithsonian Book Series | N | Children | [Buka](https://dk.com/us/search/smithsonian/) |
 | Author : Carol Vorderman Book Series | N | Children | [Buka](https://dk.com/uk/search/Carol%20Vorderman/) |
-  
+
 TOP 60 Buku Seri Yang Dikurasi Secara Manual
 ---
 
