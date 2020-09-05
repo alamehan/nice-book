@@ -17,6 +17,7 @@ Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
 
 <img src="images/img-letsgo.png">
 
+Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku terbitan Dorling Kindersley (DK) yang sudah berdiri sejak 1974 & Penguin Random House sejak 2013. Kedua penerbit ini menerbitkan buku-buku yang berkualitas dan berbobot dibandingkan penerbit lainnya. Anda bisa _check_ sendiri, buku-buku yang diterbitkan ditulis oleh para penulis hebat sesuai bidang keilmuannya masing-masing. Tidak sedikit pula buku yang terbit merupakan hasil kolaborasi antar penulis, sehingga lebih menjamin kualitas isinya. Selain itu disajikan dengan visual yang mantap dan berbagai keterangan pendukung sehingga lebih _insightfull_. Dari waktu ke waktu saya akan meng-update rekomendasi buku-buku baru yang bagus di **NiceBook** ini, tentunya saat saya menemukan buku yang memang layak dimasukkan kedalam daftar.
 
 TOP 140 Buku Seri Orisinil
 ---
@@ -42,7 +43,7 @@ TOP 140 Buku Seri Orisinil
 | 📚 NC Look There’s Series	 | 4 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/EHT/look-theres/) |
 | 📚 NG First Board Books Series | 6 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/IEN/first-board-books/) |
 | 📚 HL Find It Board Books Series | 5 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/8FI/highlights-find-it-board-books/) |
-| 📚Baby University Series | 31 | Baby-3 | [Buka](https://shop.sourcebooks.com/for-children/baby-university) |
+| 📚 Baby University Series | 31 | Baby-3 | [Buka](https://shop.sourcebooks.com/for-children/baby-university) |
 | 📚 Hello, World! Series | 18 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/HWO/hello-world/) |
 | 📚 To Baby With Love Series | 14 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/TAP/to-baby-with-love/) |
 | 📚 Baby Astrology Series | 12 | Baby-3 | [Buka](https://penguinrandomhouse.com/series/OGY/baby-astrology) |
@@ -78,7 +79,7 @@ TOP 140 Buku Seri Orisinil
 | 📚 DK My Very Important Encyclopedias Series | 6 | 5-9 | [Buka](https://penguinrandomhouse.com/series/MVE/my-very-important-encyclopedias/) |
 | 📚 Where’s Waldo? Series | 15 | 5-9 | [Buka](https://penguinrandomhouse.com/series/WAL/wheres-waldo/) |
 | 📚 DK Nature Explorers Series | 6 | 6-8 | [Buka](https://penguinrandomhouse.com/series/2ES/nature-explorers) |
-| 📚 DK Findout! Series | 31 | 6-9 | [Buka](https://penguinrandomhouse.com/series/1FT/dk-findout) |
+| 📚 ⭐ DK Findout! Series | 31 | 6-9 | [Buka](https://penguinrandomhouse.com/series/1FT/dk-findout) |
 | 📚 DK First Reference Series | 11 | 6-9 | [Buka](https://penguinrandomhouse.com/series/1KF/dk-first-reference) |
 | 📚 DK Everything About Pets Series | 3 | 6-9 | [Buka](https://penguinrandomhouse.com/series/FD8/everything-about-pets/) |
 | 📚 NG Science Chapters Series | 14 | 6-9 | [Buka](https://penguinrandomhouse.com/series/SC2/science-chapters/) |
@@ -102,9 +103,9 @@ TOP 140 Buku Seri Orisinil
 | 📚 DK Eyewitness Workbook Series | 13 | 8-12 | [Buka](https://penguinrandomhouse.com/series/EW1/eyewitness-workbook/) |
 | 📚 DK Readers Level 4 Series | 31 | 8-12 | [Buka](https://penguinrandomhouse.com/series/KD4/dk-readers-level-4) |
 | 📚 DK Visual Encyclopedia Series | 18 | 8-12 | [Buka](https://penguinrandomhouse.com/series/EZY/visual-encyclopedia/) |
-| 📚 DK Pocket Genius Series | 18 | 8-12 | [Buka](https://penguinrandomhouse.com/series/AGH/pocket-genius) |
+| 📚 ⭐ DK Pocket Genius Series | 18 | 8-12 | [Buka](https://penguinrandomhouse.com/series/AGH/pocket-genius) |
 | 📚 DK Life Stories Series | 17 | 8-12 | [Buka](https://penguinrandomhouse.com/series/5DK/dk-life-stories/) |
-| 📚 DK Knowledge Encyclopedias Series | 11 | 8-12 | [Buka](https://penguinrandomhouse.com/series/2EE/knowledge-encyclopedias/) |
+| 📚 ⭐ DK Knowledge Encyclopedias Series | 11 | 8-12 | [Buka](https://penguinrandomhouse.com/series/2EE/knowledge-encyclopedias/) |
 | 📚 DK Super Encyclopedias Series | 6 | 8-12 | [Buka](https://penguinrandomhouse.com/series/UEA/super-encyclopedias/) |
 | 📚 DK Where on Earth? Series | 6 | 8-12 | [Buka](https://penguinrandomhouse.com/series/FD9/where-on-earth/) |
 | 📚 DK It Can’t Be True Series | 5 | 8-12 | [Buka](https://penguinrandomhouse.com/series/FDB/it-cant-be-true/) |
@@ -142,7 +143,7 @@ TOP 140 Buku Seri Orisinil
 | 📚 DK SuperSimple Series | 3 | 12-14 | [Buka](https://penguinrandomhouse.com/series/SMP/supersimple) |
 | 📚 DK Pocket Travel Guide Series | 104 | - | [Buka](https://https://www.penguinrandomhouse.com/series/ADJ/pocket-travel-guide) |
 | 📚 DK Essential Managers Series | 80 | - | [Buka](https://penguinrandomhouse.com/series/AB9/dk-essential-managers) [Lainnya](https://librarything.com/series/DK+Essential+Managers) |
-| 📚 DK Big Ideas Series & The Little Book of Series | 52 | - | [Buka](https://penguinrandomhouse.com/series/AAY/big-ideas) |
+| 📚 ⭐ DK Big Ideas Series & The Little Book of Series | 52 | - | [Buka](https://penguinrandomhouse.com/series/AAY/big-ideas) |
 | 📚 DK English for Everyone Series | 33 | - | [Buka](https://penguinrandomhouse.com/series/EFE/english-for-everyone/) |
 | 📚 DK How Things Work Series | 15 | - | [Buka](https://penguinrandomhouse.com/series/3TW/how-things-work) |
 | 📚 DK Smithsonian Handbook Series | 13 | - | [Buka](https://penguinrandomhouse.com/series/AHK/dk-smithsonian-handbook/) |
@@ -157,7 +158,7 @@ TOP 140 Buku Seri Orisinil
 | 📚 NG Readers Series | 163 | - | [Buka](https://penguinrandomhouse.com/series/RDR/readers/) |
 | 📚 NG Almanac Series | N | - | [Buka](https://penguin.com.au/search?q=almanac) |
 | 📚 Step into Reading Series | 707 | - | [Buka](https://penguinrandomhouse.com/series/SR6/step-into-reading/) |
-| 📚 Idiot’s Guides Series | 128 | - | [Buka](https://penguinrandomhouse.com/series/IDU/idiots-guides) |
+| ⭐ 📚 Idiot’s Guides Series | 128 | - | [Buka](https://penguinrandomhouse.com/series/IDU/idiots-guides) |
 | 📚 A Little Book of Self Care Series | 6 | - | [Buka](https://penguinrandomhouse.com/series/LB9/a-little-book-of-self-care) |
 | 📚 15 Minute Fitness Series | 2 | - | [Buka](https://penguinrandomhouse.com/series/001/15-minute-fitness) |
 | 🧑 Author : Robert Winston Book Series | N | Children | [Buka](https://dk.com/uk/search/Robert%20Winston/) |
