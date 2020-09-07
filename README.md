@@ -284,7 +284,7 @@ Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku
 3️⃣ TOP 60 Buku Seri Yang Dikurasi Secara Manual
 ---
 
-| Judul Buku Seri | Jumlah | Usia | Link Spesifik |
+| Judul Buku Seri | Jumlah Buku | Rentang Usia | Link Spesifik |
 |-|-|-|-|
 | DK Little Hide and Seek Series | 5 | Baby-3 | [Little Hide and Seek Playtime](https://dk.com/uk/book/9781409339427-little-hide-and-seek-playtime/), [Little Hide and Seek Animals](https://dk.com/uk/book/9781409382669-little-hide-and-seek-animals/), [Little Hide and Seek Words](https://dk.com/uk/book/9781409382690-little-hide-and-seek-words/), [Little Hide and Seek Farm](https://dk.com/uk/book/9781409339410-little-hide-and-seek-farm/), [Little Hide and Seek Colors](https://dk.com/us/book/9781465419927-little-hide-and-seek-colors/), [More UK](https://dk.com/uk/search/little%20hide%20and%20seek/), [More US](https://dk.com/us/search/little%20hide%20and%20seek/) |
 | DK First Facts Series | 4 | 3-5 | [First Facts Bugs](https://dk.com/uk/book/9781405368131-first-facts-bugs/), [First Facts Dinosaurs](https://dk.com/uk/book/9781409375753-first-facts-dinosaurs/), [First Facts Farm](https://dk.com/uk/book/9781405371483-first-facts-farm/), [First Facts Seasons](https://dk.com/uk/book/9781409375777-first-facts-seasons/), [More UK](https://dk.com/uk/search/first%20facts/), [More US](https://dk.com/us/search/first%20facts/) |
