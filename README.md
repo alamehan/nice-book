@@ -15,13 +15,15 @@ Saat ini buku yang tersebar di seluruh penjuru dunia baik yang dicetak maupun di
 
 Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
 
-<img src="images/img-letsgo.png">
+<img src="images/img-catatan.png">
 
 Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku terbitan Dorling Kindersley (DK) yang sudah berdiri sejak 1974 & Penguin Random House sejak 2013. Kedua penerbit ini menerbitkan buku-buku yang berkualitas dan berbobot dibandingkan penerbit lainnya. Anda bisa _check_ sendiri, buku-buku yang diterbitkan ditulis oleh para penulis hebat sesuai bidang keilmuannya masing-masing. Tidak sedikit pula buku yang terbit merupakan hasil kolaborasi antar penulis, sehingga lebih menjamin kualitas isinya. Selain itu disajikan dengan visual yang mantap dan berbagai keterangan pendukung sehingga lebih _insightfull_. Saya akan terus meng-update daftar rekomendasi buku di **NiceBook** ini, tentunya saat saya menemukan buku yang memang layak dimasukkan kedalam daftar.
 
 📌 Untuk melihat update terakhir buku terbitan Dorling Kindersley (DK) [klik disini](https://www.dk.com/)<br>
 📌 Untuk melihat update terakhir buku terbitan Penguin Random House [klik disini](https://www.penguinrandomhouse.com/)<br>
 📌 Tanda "⭐" yang terdapat di beberapa judul buku seri berarti sangat direkomendasikan
+
+<img src="images/img-letsgo.png">
 
 1️⃣ TOP 110 Buku Non-Seri
 ---
