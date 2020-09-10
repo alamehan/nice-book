@@ -353,6 +353,3 @@ Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku
 | 📚 DK Dreams Tarot  | 2 | -- | [Dreams](https://dk.com/uk/book/9780241363539-dreams/), [Tarot](https://dk.com/uk/book/9780241433232-tarot/), [More UK](https://dk.com/uk/search/dreams%20tarot/), [More US](https://dk.com/us/search/dreams%20tarot/) |
 | 📚 DK Let’s Get  | 2 | -- | [Let's Get Tropical](https://dk.com/uk/book/9781465484291-lets-get-tropical/), [Let's Get Fizzical](https://dk.com/uk/book/9780241352496-lets-get-fizzical/), [More UK](https://dk.com/uk/search/let's%20get/), [More US](https://dk.com/us/search/let's%20get/) |
 | 📚 DK 10-Minute  | 2 | -- | [10-Minute Make-up](https://dk.com/uk/book/9781409338062-10-minute-make-up/), [10-Minute Haristyles](https://dk.com/uk/book/9780241216088-10-minute-hairstyles/), [More UK](https://dk.com/uk/search/10%20minute/), [More US](https://dk.com/us/search/10%20minute/) |
-
-4️⃣ TOP Buku Seri Lainnya
----
