@@ -19,8 +19,7 @@ Semoga bermanfaat. Selamat menyelami lautan ilmu pengetahuan!
 
 Rekomendasi buku yang tersedia di **NiceBook** ini banyak diambil dari buku-buku terbitan Dorling Kindersley (DK) yang sudah berdiri sejak 1974 & Penguin Random House sejak 2013. Kedua penerbit ini menerbitkan buku-buku yang berkualitas dan berbobot dibandingkan penerbit lainnya. Anda bisa _check_ sendiri, buku-buku yang diterbitkan ditulis oleh para penulis hebat sesuai bidang keilmuannya masing-masing. Tidak sedikit pula buku yang terbit merupakan hasil kolaborasi antar penulis, sehingga lebih menjamin kualitas isinya. Selain itu disajikan dengan visual yang mantap dan berbagai keterangan pendukung sehingga lebih _insightfull_. Saya akan terus meng-update daftar rekomendasi buku di **NiceBook** ini, tentunya saat saya menemukan buku yang memang layak dimasukkan kedalam daftar.
 
-- Untuk melihat update terakhir buku terbitan Dorling Kindersley (DK) [klik disini](https://www.dk.com/)<br>
-- Untuk melihat update terakhir buku terbitan Penguin Random House [klik disini](https://www.penguinrandomhouse.com/)<br>
+- Untuk melihat update terakhir buku terbitan Dorling Kindersley (DK) [Link 1](https://www.amazon.com/kindle-dbs/entity/author/B072JMLPDS?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=date-desc-rank&page=1&langFilter=default#formatSelectorHeader), [Link 2](https://www.amazon.com/DK-Eyewitness/e/B0843RXWLT?ref=dbs_a_def_rwt_sims_vu00_r0_c1)
 - Tanda 🔎 di beberapa judul buku seri menandakan buku seri untuk "eksplorasi"
 - Tanda ⭐ di beberapa judul buku seri menandakan buku seri yang populer
 
