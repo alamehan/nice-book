@@ -1,5 +1,7 @@
 <img src="images/img-cover.png">
 
+⚠️ **INFO**: <ins>Semua update koleksi buku terbaik pindah ke:</ins> [The Readerrr](https://alamehan.github.io/epub/)
+
 ## NiceBook
 
 - Rekomendasi buku-buku paling penting. Mencakup hampir seluruh cabang keilmuan secara umum<br>
